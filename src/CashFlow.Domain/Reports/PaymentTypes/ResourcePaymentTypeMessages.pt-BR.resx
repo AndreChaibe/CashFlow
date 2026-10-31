@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<accessability>public</accessability>
+	<data id="d95e7988-6d4f-4721-864e-07ea7b8f3f84" name="CASH" xml:space="preserve">
+		<value>Dinheiro</value>
+		<comment></comment>
+	</data>
+	<data id="da08ed08-6605-4515-8a05-e8cfeecb4fd4" name="CREDIT_CARD" xml:space="preserve">
+		<value>Cartão de Crédito</value>
+		<comment></comment>
+	</data>
+	<data id="1013a5dc-b85e-4d79-b5dd-ca143c7966fe" name="DEBIT_CARD" xml:space="preserve">
+		<value>Cartão de Débito</value>
+		<comment></comment>
+	</data>
+	<data id="6aa6e681-1c19-4146-af8b-c408f6066972" name="ELECTRONIC_TRANSFER" xml:space="preserve">
+		<value>Transferência Eletrônica</value>
+		<comment></comment>
+	</data>
+</root>
