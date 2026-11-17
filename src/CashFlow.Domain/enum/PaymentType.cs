@@ -5,5 +5,5 @@ public enum PaymentType
     Cash,
     CreditCard,
     DebitCard,
-    EletronicTransfer
+    ElectronicTransfer
 }

@@ -13,12 +13,24 @@
 		<value>Description</value>
 		<comment/>
 	</data>
+	<data id="e638bf16-5a2c-4101-a23c-fe57b7225954" name="EXPENSES_FOR" xml:space="preserve">
+		<value>Dépenses pour</value>
+		<comment/>
+	</data>
 	<data id="b9de90e7-b181-42fe-9775-a779008e8b8b" name="PAYMENT_TYPE" xml:space="preserve">
 		<value>Type de paiement</value>
 		<comment/>
 	</data>
+	<data id="864929fd-29e1-41a9-8c5f-1c6841f494e0" name="REPORT_WELCOME_MESSAGE" xml:space="preserve">
+		<value>Bonjour, consultez vos dépenses de ce mois-ci !</value>
+		<comment/>
+	</data>
 	<data id="26281933-735d-478c-a26d-352496137b4c" name="TITLE" xml:space="preserve">
 		<value>Titre</value>
+		<comment/>
+	</data>
+	<data id="f9b030ca-7ec5-474c-828e-da8c21a0b5ab" name="TOTAL_SPENT_IN" xml:space="preserve">
+		<value>Total dépensé en {0}</value>
 		<comment/>
 	</data>
 </root>
